@@ -10,7 +10,7 @@ Desarrollo de una Herramienta útil para la comunidad en general, por medio de u
 
 ## Autor
 
-- [Diego Mauro Daniel Maneyro](https://github.com/diegomaneyro)
+- [Diego Maneyro](https://github.com/diegomaneyro)
 
 ## Contenido
 
