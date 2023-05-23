@@ -1,7 +1,7 @@
 # Clasificador Sismico
 
 <p align="center">
-<img src="imagenes/logo.jpg"  height=250> 
+<img src="recursos/logo.jpg"  height=250> 
 </p>
 
 ## Objetivo
@@ -26,17 +26,12 @@ Desarrollo de una Herramienta útil para la comunidad en general, por medio de u
 
 ## Flujo del Dato
 
-<img src="imagenes/Proceso-trabajo.jpg" alt="App Screenshot" width="400px" height="300px">
+<img src="recursos/Proceso-trabajo.jpg" alt="App Screenshot" width="400px" height="300px">
 
 
-## Skills
+[Skills]("recursos/skill.jpg")
 
-<img src="imagenes/skill.jpg" alt="App Screenshot" widht="500px" height="300px">
-
-## Desempeño de roles
-
-<img src="imagenes/tareas-grafica.jpg" alt="App Screenshot" width="400px" height="300px">
-
+[Desempeño de roles]("recursos/tareas-grafica.jpg")
 
 
 
@@ -47,4 +42,3 @@ Este proyecto fue desarrolado bajo la licenia [GPL V3](https://choosealicense.co
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 La Licencia Pública General de GNU (GPL) es una licencia de software libre diseñada para garantizar la libertad de los usuarios para utilizar, modificar y distribuir software
-# Clasificador-Sismico
